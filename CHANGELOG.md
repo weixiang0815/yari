@@ -1,5 +1,35 @@
 # Changelog
 
+## [2.61.0](https://github.com/mdn/yari/compare/v2.60.1...v2.61.0) (2024-07-26)
+
+
+### Features
+
+* **pong:** support custom colors for new sidebar format ([#11498](https://github.com/mdn/yari/issues/11498)) ([a0f2afd](https://github.com/mdn/yari/commit/a0f2afd1574a6778b92b4e3b940c0b0e91560d8a))
+
+
+### Bug Fixes
+
+* **baseline:** support ranged dates, use upstream types ([#11536](https://github.com/mdn/yari/issues/11536)) ([2782f97](https://github.com/mdn/yari/commit/2782f97b587df5ce58a406ca491af2d094543076))
+* **placement:** reuse TextColor/BackgroundColor for "AD" link ([#11540](https://github.com/mdn/yari/issues/11540)) ([16a6717](https://github.com/mdn/yari/commit/16a6717933b1c72d5014e1310133ff5e28578fd5))
+
+
+### Miscellaneous
+
+* **baseline:** update learn more link to glossary entry ([#11532](https://github.com/mdn/yari/issues/11532)) ([a291a6a](https://github.com/mdn/yari/commit/a291a6a1e62ebac5dc8ef41b89381500dc7377a0))
+* **deps-dev:** bump @swc/core from 1.7.0 to 1.7.1 ([#11533](https://github.com/mdn/yari/issues/11533)) ([30e87c6](https://github.com/mdn/yari/commit/30e87c633be2d47a7d4fabe153c7fa70bee30148))
+* **deps-dev:** bump @swc/core from 1.7.1 to 1.7.2 ([#11543](https://github.com/mdn/yari/issues/11543)) ([04c1579](https://github.com/mdn/yari/commit/04c1579d954dccaa8107264f6c372df4ca0affa4))
+* **deps-dev:** bump eslint-plugin-n from 17.9.0 to 17.10.1 ([#11545](https://github.com/mdn/yari/issues/11545)) ([6ca9a43](https://github.com/mdn/yari/commit/6ca9a43d67158c28db557c0bb863685f600ee7ad))
+* **deps-dev:** bump eslint-plugin-unicorn from 54.0.0 to 55.0.0 ([#11539](https://github.com/mdn/yari/issues/11539)) ([0cc49fc](https://github.com/mdn/yari/commit/0cc49fc1121a99a6d262b36d8a789817e6be074e))
+* **deps-dev:** bump husky from 9.1.1 to 9.1.2 ([#11544](https://github.com/mdn/yari/issues/11544)) ([03984c6](https://github.com/mdn/yari/commit/03984c6225134bf8cc5594f94ab53a8fd686ac1b))
+* **deps-dev:** bump postcss from 8.4.39 to 8.4.40 ([#11538](https://github.com/mdn/yari/issues/11538)) ([72781eb](https://github.com/mdn/yari/commit/72781eb0109dbbaccf93b5f910dc19ef15c7becb))
+* **deps-dev:** bump sass-loader from 14.2.1 to 15.0.0 ([#11535](https://github.com/mdn/yari/issues/11535)) ([8914a11](https://github.com/mdn/yari/commit/8914a11bbc7d4840f362923fde91632717bcacb4))
+* **deps:** bump @mdn/browser-compat-data from 5.5.40 to 5.5.41 ([#11534](https://github.com/mdn/yari/issues/11534)) ([86a9276](https://github.com/mdn/yari/commit/86a92766bf69af52e8bb7de05fcdd381190c48f4))
+* **deps:** bump @sentry/node from 8.19.0 to 8.20.0 in the sentry group ([#11537](https://github.com/mdn/yari/issues/11537)) ([c99b94d](https://github.com/mdn/yari/commit/c99b94dd78793d612c836e2325ef95287d818075))
+* **deps:** bump @webref/css from 6.13.1 to 6.14.0 ([#11542](https://github.com/mdn/yari/issues/11542)) ([deedd01](https://github.com/mdn/yari/commit/deedd0169bcfaff9547e2e4b028fd1bf3cfbdeeb))
+* **deps:** bump openai from 4.53.0 to 4.53.1 ([#11541](https://github.com/mdn/yari/issues/11541)) ([f0ec2be](https://github.com/mdn/yari/commit/f0ec2be6f3a88e34831f5a090dd153dfb390efb9))
+* **macros/LearnSidebar:** add Japanese translation for 5 locations ([#11507](https://github.com/mdn/yari/issues/11507)) ([b342cae](https://github.com/mdn/yari/commit/b342cae8161fbd1ecb03b29692c52d239a3b8fec))
+
 ## [2.60.1](https://github.com/mdn/yari/compare/v2.60.0...v2.60.1) (2024-07-23)
 
 
